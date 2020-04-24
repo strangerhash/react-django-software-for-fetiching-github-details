@@ -20,7 +20,7 @@ We commit to keeping the breaking changes minimal so you can upgrade `react-scri
 
 After creation, your project should look like this:
 
-
+```
 my-app/
   README.md
   node_modules/
@@ -36,7 +36,7 @@ my-app/
     index.js
     logo.svg
 
-
+```
 For the project to build, **these files must exist with exact filenames**:
 
 * `public/index.html` is the page template;
@@ -57,7 +57,7 @@ They will not be included in the production build so you can use them for things
 
 In the project directory, you can run:
 
-### `npm start`
+### npm start
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
