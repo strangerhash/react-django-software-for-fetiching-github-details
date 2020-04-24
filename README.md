@@ -20,7 +20,7 @@ We commit to keeping the breaking changes minimal so you can upgrade `react-scri
 
 After creation, your project should look like this:
 
-```
+
 my-app/
   README.md
   node_modules/
@@ -35,7 +35,7 @@ my-app/
     index.css
     index.js
     logo.svg
-```
+
 
 For the project to build, **these files must exist with exact filenames**:
 
